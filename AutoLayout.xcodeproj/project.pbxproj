@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D6B05C41225D086C0001ACCE /* iconfinder_Winter-16_4041537.png in Resources */ = {isa = PBXBuildFile; fileRef = D6B05C40225D086C0001ACCE /* iconfinder_Winter-16_4041537.png */; };
 		D6E293EF2254C99500A927B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E293EE2254C99500A927B6 /* AppDelegate.swift */; };
 		D6E293F12254C99500A927B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E293F02254C99500A927B6 /* ViewController.swift */; };
 		D6E293F62254C99600A927B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6E293F52254C99600A927B6 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D6B05C40225D086C0001ACCE /* iconfinder_Winter-16_4041537.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iconfinder_Winter-16_4041537.png"; sourceTree = "<group>"; };
 		D6E293EB2254C99500A927B6 /* AutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6E293EE2254C99500A927B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6E293F02254C99500A927B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 		D6E293ED2254C99500A927B6 /* AutoLayout */ = {
 			isa = PBXGroup;
 			children = (
+				D6B05C40225D086C0001ACCE /* iconfinder_Winter-16_4041537.png */,
 				D6E2941E225504E400A927B6 /* BookPoster.jpg */,
 				D6E2941C2254DBB200A927B6 /* Main.storyboard */,
 				D6E29420225510A500A927B6 /* ProductViewController.swift */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D6B05C41225D086C0001ACCE /* iconfinder_Winter-16_4041537.png in Resources */,
 				D6E2941D2254DBB200A927B6 /* Main.storyboard in Resources */,
 				D6E2941F225504E500A927B6 /* BookPoster.jpg in Resources */,
 				D6E293F92254C99600A927B6 /* LaunchScreen.storyboard in Resources */,
