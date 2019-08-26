@@ -13,11 +13,11 @@ class ProductViewController: UIViewController {
     @IBOutlet weak var paperback: UIButton!
     @IBOutlet weak var book: UIButton!
     @IBOutlet weak var kindle: UIButton!
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-    
+
     @IBAction func didTap(_ sender: UIButton) {
         UIView.animate(withDuration: 0.5) {
             switch sender.tag {
@@ -33,7 +33,7 @@ class ProductViewController: UIViewController {
             }
             self.view.layoutIfNeeded()
         }
-        
+
     }
-    
+
 }
